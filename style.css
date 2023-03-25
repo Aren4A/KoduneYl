@@ -215,21 +215,22 @@ header {
     font-weight: 700;
     font-size: 4vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .one h2 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 .one h3 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 4vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .two {
     display: flex;
@@ -244,7 +245,7 @@ header {
     font-weight: 700;
     font-size: 4vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
     padding-right: 20vw;
 }
 .two h2 {
@@ -252,14 +253,15 @@ header {
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 .two h3 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 4vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .three {
     display: flex;
@@ -274,22 +276,23 @@ header {
     font-weight: 700;
     font-size: 4vw;
     padding-top: 2vw;
-    padding-left: 1vw;
-    padding-right: 10vw;
+    padding-left: 2vw;
+    padding-right: 15vw;
 }
 .three h2 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 .three h3 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 4vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .four {
     display: flex;
@@ -304,21 +307,22 @@ header {
     font-weight: 700;
     font-size: 4vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .four h2 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 2vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 .four h3 {
     display: flex;
     font-weight: 400;
     font-size: 2.5vw;
     padding-top: 4vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }
 .contact {
     display: flex;
